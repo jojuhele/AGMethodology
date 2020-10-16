@@ -1,0 +1,29 @@
+site_name: AG methodology
+site_author: Jose Hernández and Carlos Gómez
+# Repository
+repo_name: jojuhele/AGMethodology
+repo_url: https://github.com/jojuhele/AGMethodology
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2020 Jose Hernandez and Carlos Gómez
+
+# Configuration
+theme:
+  name: material
+  palette:
+    primary: pink
+    accent: pink
+   # 404 page
+  static_templates:
+    - 404.html
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  logo: img/AGlogo.svg
+plugins:
+  - search
+extra_css:
+  - 'styles/logo.css'
