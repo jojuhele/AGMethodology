@@ -16,8 +16,13 @@ Additionally, the AG includes predictive tools to do optimizes task in the Syste
 ***
 ![image](img/ecosystem_methodology.png)
 
-For further details, you can visit the following sections. 
+For further details, you can visit the following sections.
 
-* ### [**Roles**](roles/roles.md)
+* ### Teams/Squads
+ 
+    * #### [**Roles**](roles/roles.md)
+  
+    * #### [**Interactions**](roles/Interactions.md)
+  
 * ### [**Meetings**](meetings/meetings.md)
 * ### [**Toolbox**](toolbox/toolbox.md)
