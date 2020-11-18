@@ -25,7 +25,28 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   logo: img/AGlogo.svg
+markdown_extensions:
+  - markdown.extensions.extra
+  - pymdownx.magiclink
+  - pymdownx.caret
+  - pymdownx.extra
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: flow
+        - class: uml-flowchart
+        - format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
+  - awesome-pages
 extra_css:
   - 'styles/logo.css'
