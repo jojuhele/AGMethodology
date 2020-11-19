@@ -2,7 +2,7 @@
 ***
 The **AG methodology** includes the following roles to execute the tasks in each of the project phases.
 
-## Team Roles
+## Squad Roles
 ***
 
 ???+ info
@@ -10,10 +10,10 @@ The **AG methodology** includes the following roles to execute the tasks in each
 
 |        **Role**        | **Description**                                                                                                                                                                                                                                                                                  | **Suggestions** |
 | :--------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------- |
-| **Agile Project (AP)** | He/she is the one who leads the development team and verifies compliance with the **AG methodology**. This profile has certifications in predictive and agile frameworks. It is common to find **PMP** and **PMI-ACP** certified professionals or **Scrum Master** in this role.                 |                 |
-|  **Team Leader (TL)**  | He/she is in charge of the requirements and determines according to the priorities given by the **Agile Project** how the team is going to advance. This profile has technical skills and is part of the development team getting to participate in the construction of the product or solution. |                 |
-|  **Team QAs (TQAs)**   | He/She is in charge of product quality; this profile participates in each sprint, testing the development/product. QAs interact with the **development team (Team Dev)**, report bugs, and testing with end-users.                                                                               |                 |
-|   **Team Dev (Dev)**   | They are professionals with the technical knowledge to carry out the project development tasks, complying with the requirements and user stories defined at the beginning of the sprint.                                                                                                         |                 |
+| **Squad Manager (SM)** | He/she is the one who leads the development team and verifies compliance with the **AG methodology**. This profile has certifications in predictive and agile frameworks. It is common to find **PMP** and **PMI-ACP** certified professionals or **Scrum Master** in this role.                 |                 |
+|  **Squad Lead (TL)**  | He/she is in charge of the requirements and determines according to the priorities given by the **SM** how the team is going to advance. This profile has technical skills and is part of the development team getting to participate in the construction of the product or solution. |                 |
+|  **Squad QA (SQ)**   | He/She is in charge of product quality; this profile participates in each sprint, testing the development/product. QAs interact with the **development team (Dev Squad)**, report bugs, and testing with end-users.                                                                               |                 |
+|   **Dev Squad (SD)**   | They are professionals with the technical knowledge to carry out the project development tasks, complying with the requirements and user stories defined at the beginning of the sprint.                                                                                                         |                 |
 
 ## Customer Roles
 ***

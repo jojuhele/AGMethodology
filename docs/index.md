@@ -18,7 +18,7 @@ Additionally, the AG includes predictive tools to do optimizes task in the Syste
 
 For further details, you can visit the following sections.
 
-* ### Teams/Squads
+* ### Squads
  
     * #### [**Roles**](roles/roles.md)
   
