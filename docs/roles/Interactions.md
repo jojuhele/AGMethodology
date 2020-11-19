@@ -1,6 +1,11 @@
 # Scalability
 ***
-## Small Projects
+## Squads
 ***
-## Big Projects
+
+![Squads](../img/squad.png)
+
+## Units
 ***
+
+![Units](../img/Unit.png)
