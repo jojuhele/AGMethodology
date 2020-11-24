@@ -1,7 +1,11 @@
+<link rel="stylesheet" href="https://jojuhele.github.io/AGMethodology/styles/table.css">
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 # About US
 ***
-## Carlos Alberto Gómez Soto
-***
 
-## José Juan Hernández León
-***
+If you need information related to the AP methodology and its application, you can contact us using the following profiles.
+
+|                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="vertical" data-theme="light" data-vanity="jojuhele11"><a class="LI-simple-link" href='https://co.linkedin.com/in/jojuhele11?trk=profile-badge'>Jose Juan Hernandez León</a></div> | <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="es_ES" data-type="vertical" data-theme="light" data-vanity="carlos-gomez-soto-02339b89"><a class="LI-simple-link" href='https://co.linkedin.com/in/carlos-gomez-soto-02339b89?trk=profile-badge'>Jose Juan Hernandez León</a></div> |

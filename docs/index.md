@@ -1,6 +1,6 @@
-# Learn the new AG Methodology
+# Learn the new AP Methodology
 
-The **AG Methodology** helps you manage your software projects, following the values listed below.
+The **AP Methodology** helps you manage your software projects, following the values listed below.
 
 * **Individuals and interactions** over processes and tools
 * **Working software** over comprehensive documentation

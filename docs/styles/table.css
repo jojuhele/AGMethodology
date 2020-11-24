@@ -1,0 +1,6 @@
+.md-typeset__table th {
+    background-color: white !important;
+    color: black !important;
+    font-weight: 700;
+    border-bottom: .1rem solid rgba(0,0,0,.07);
+  }

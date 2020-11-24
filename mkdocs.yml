@@ -1,4 +1,4 @@
-site_name: AG methodology
+site_name: AP Methodology
 site_author: Jose Hernández and Carlos Gómez
 # Repository
 repo_name: jojuhele/AGMethodology
@@ -50,3 +50,5 @@ plugins:
   - awesome-pages
 extra_css:
   - 'styles/logo.css'
+extra:
+  disqus: apmethodology

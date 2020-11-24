@@ -1,5 +1,7 @@
 # Methodology Steps
-***
+
+![steps](img/../../img/steps.png)
+
 The **AP** (agile + predictive) methodology includes the following steps for its implementation:
 
 ## Initial timebox -  predictive
