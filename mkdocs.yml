@@ -3,7 +3,7 @@ site_author: Jose Hernández and Carlos Gómez
 # Repository
 repo_name: jojuhele/AGMethodology
 repo_url: https://github.com/jojuhele/AGMethodology
-edit_uri: ""
+edit_uri: "?path=%2Fdocs"
 
 # Copyright
 copyright: Copyright &copy; 2020 Jose Hernandez and Carlos Gómez
@@ -50,5 +50,3 @@ plugins:
   - awesome-pages
 extra_css:
   - 'styles/logo.css'
-extra:
-  disqus: apmethodology

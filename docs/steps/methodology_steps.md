@@ -7,11 +7,13 @@ The **AP** (agile + predictive) methodology includes the following steps for its
 ## Initial timebox -  predictive
 ***
 
+This timeline includes the steps for **project kick-off** and **initial planning** from a predictive point of view; the above steps contain the elements listed below.
+
 ### 1.  Project kick-off
 *** 
 It is the initial stage of the project. Stakeholders are informed of the start of the project, the scope, the objectives, and the expected results.
 
-**a. Roles involved on stage**
+#### **a. Roles involved on stage**
 
 * **Squad:**
  
@@ -22,18 +24,18 @@ It is the initial stage of the project. Stakeholders are informed of the start o
     *    Sponsor
     *    Funtional leader
     *    Technical leader
-    *    Personas invitadas por el sponsor
+    *    People invited by the sponsor
      
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Project charter V 1.0
 *    Microsoft Project V 1.0
             
-**c. Meetings**
+#### **c. Meetings**
 
 *    Kick-off meeting
             
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Project charter V 1.1
 *    Microsoft Project V 1.1
@@ -41,10 +43,10 @@ It is the initial stage of the project. Stakeholders are informed of the start o
 
 ### 2.    Initial planning
 ***
-    
-Write the description here ...
 
-**a. Roles involved on stage**
+In this step, the teams work on the initial planning of the project. This planning helps with the sprint calculation and with its duration of the project.
+
+#### **a. Roles involved on stage**
 
 * **Squad:**
      
@@ -57,17 +59,17 @@ Write the description here ...
     * Funtional Leader
     * Key Users
         
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Checklist
 *    Backlog
 *    Microsoft Project V 2.0
     
-**c. Meetings**
+#### **c. Meetings**
 
 *    Understanding meeting
     
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Backlog
 *    Microsoft Project V 2.0 – baseline
@@ -75,10 +77,14 @@ Write the description here ...
 ## Development timebox - agile
 ***
 
-### 1. Design
-***    
+In this timebox, the steps associated with the design, development + testing, and production environment of the products/project are carried out.
 
-**a. Roles involved on stage**
+### 1. Design
+*** 
+
+In this step, you work on the detailed design of the module/product planned for the sprint.
+
+#### **a. Roles involved on stage**
 
 * **Squad:**
  
@@ -92,28 +98,31 @@ Write the description here ...
     *    Technical Leader
     *    Key Users
 
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Kanban Board
 *    Backlog
 *    User history
 
-**c. Meetings**
+#### **c. Meetings**
 
 *    Dailys
 *    Weekly
 *    Biweekly
 *    Understanding meeting
 
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Kanban Board
 *    User History
 *    Process
 
 ### 2. Development + Testing
+***
 
-**a. Roles involved on stage**
+In this step, you work on the development (front-end and back-end) and the tests planned for the sprint.
+
+#### **a. Roles involved on stage**
 
 * **Squad:**
  
@@ -129,20 +138,20 @@ Write the description here ...
     *    Technical Leader
     *    Key Users
     
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Kanban Board
 *    Backlog
 *    User history
 *    DevOps
     
-**c. Meetings**
+#### **c. Meetings**
 
 *    Dailys
 *    Weekly
 *    Biweekly
      
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Kanban Board
 *    Sprint planning
@@ -150,8 +159,11 @@ Write the description here ...
 *    Certificate of approval of tests
 
 ### 3. Deployment
+***
 
-**a. Roles involved on stage**
+In this step, we work on the automation (DevOps) and the production environment of the module/product planned for the sprint.
+
+#### **a. Roles involved on stage**
 
 * **Squad:**
  
@@ -162,20 +174,20 @@ Write the description here ...
  
     *    Technical Leader
 
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Checklist
 *    DevOps
    
-**c. Meetings**
+#### **c. Meetings**
 
 *    Dailys
 *    Weekly
 *    Biweekly
-*    Reunión técnico/funcional
-*    Reunión de retrospectiva
+*    Technical/functional meeting
+*    Retrospective meeting
     
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Checklist
 *    Certificate of delivery in PRD
@@ -183,9 +195,13 @@ Write the description here ...
 ## Finish timebox - predictive
 ***
 
+In this timebox, the closing steps of the project are executing as a team with the client.
+
 ### 1. Project finish
 
-**a. Roles involved on stage**
+In this step, you work on the project closing minutes
+
+#### **a. Roles involved on stage**
 
 * **Squad:**
  
@@ -197,14 +213,14 @@ Write the description here ...
     *    Sponsor
     *    Funtional Leader
     
-**b. Recommended tools**
+#### **b. Recommended tools**
 
 *    Microsoft Project V 2.0
     
-**c. Meetings**
+#### **c. Meetings**
 
 *    Closure meeting
     
-**d.    Deliverables/results**
+#### **d.    Deliverables/results**
 
 *    Project closure certificate
